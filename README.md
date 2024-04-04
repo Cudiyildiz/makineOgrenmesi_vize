@@ -1,0 +1,1 @@
+# makineOgrenmesi_vize
